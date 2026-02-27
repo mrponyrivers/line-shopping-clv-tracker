@@ -8,7 +8,7 @@ A Streamlit app that helps you **shop the best line across books** and track **C
 
 ## Live demo
 
-✅ Open the app: PASTE_YOUR_STREAMLIT_URL_HERE
+✅ Open the app: https://mrponyrivers-line-shopping-clv-tracker.streamlit.app/
 
 ---
 
