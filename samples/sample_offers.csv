@@ -1,0 +1,6 @@
+sport,league,game,market_type,side,line,odds_decimal,book,notes
+NFL,NFL,KC @ BUF,ML,BUF,,1.91,Book A,Example offer
+NFL,NFL,KC @ BUF,ML,BUF,,1.95,Book B,Better price
+NFL,NFL,KC @ BUF,Spread,BUF,-2.5,1.91,Book A,
+NFL,NFL,KC @ BUF,Total,Over,47.5,1.87,Book A,
+NFL,NFL,KC @ BUF,Total,Over,47.5,1.91,Book B,Better total price

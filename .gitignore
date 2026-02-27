@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+
+# Streamlit
+.streamlit/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Keep samples, ignore other CSV exports by default
+*.csv
+!samples/*.csv
