@@ -18,3 +18,5 @@ __pycache__/
 *.csv
 !samples/*.csv
 EOF
+# Logs
+*.log
