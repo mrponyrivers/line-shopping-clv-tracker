@@ -94,3 +94,7 @@ Built with a clean Streamlit UI and zero-friction templates for fast demos.
 
 This app is educational and workflow-focused. Betting involves risk and variance.  
 CLV is a process metric (beating the close), not a guarantee of short-term profit.
+
+## Quick Preview (Auto-Play)
+
+![Line Shopping + CLV Tracker demo](assets/demo.gif)
