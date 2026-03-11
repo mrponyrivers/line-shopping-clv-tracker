@@ -13,10 +13,9 @@ A Streamlit app that helps you **shop the best line across books** and track **C
 ---
 ## Screenshots
 
-![Line Shop](docs/screenshots/01-screenshot.png)
-![Best Prices + Selected Offer](docs/screenshots/02-screenshot.png)
-![CLV Tracker](docs/screenshots/03-screenshot.png)
-
+![Line Shop](docs/screenshots/screenshot1.png)
+![Best Prices + Selected Offer](docs/screenshots/screenshot2.png)
+![CLV Tracker](docs/screenshots/screenshot3.png)
 ---
 ## What this app does
 
