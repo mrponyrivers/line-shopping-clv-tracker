@@ -26,3 +26,12 @@ EOF
 launchd.out.log
 launchd.err.log
 streamlit.log
+
+# Local logs
+*.log
+launchd.out.log
+launchd.err.log
+streamlit.log
+
+# Virtual env
+.venv/
