@@ -36,8 +36,9 @@ A Streamlit app that helps you **shop the best line across books** and track **C
 
 1) Open the **Live demo**
 2) Click **Load demo** (sidebar) to populate sample offers + bets
-3) Go to **CLV Tracker** → see CLV metrics + chart
-4) Go to **Import / Export** → download templates + exports
+3) Go to **Line Shop** → select a best-price row → create a bet from the selection
+4) Go to **CLV Tracker** → add closing odds/line → review CLV metrics
+5) Go to **Import / Export** → download templates + exports
 
 ---
 
@@ -95,6 +96,3 @@ Built with a clean Streamlit UI and zero-friction templates for fast demos.
 This app is educational and workflow-focused. Betting involves risk and variance.  
 CLV is a process metric (beating the close), not a guarantee of short-term profit.
 
-## Quick Preview (Auto-Play)
-
-![Line Shopping + CLV Tracker demo](assets/demo.gif)
