@@ -5,13 +5,15 @@
 A Streamlit app that helps you **shop the best line across books** and track **CLV (Closing Line Value)** over time.
 
 ---
+
 ## Live Demo
-- **App:** <https://youtu.be/ghMJ3IXv45Y>
-- **Repo: ✅ Open the app: https://mrponyrivers-line-shopping-clv-tracker.streamlit.app/
+- **App:** https://mrponyrivers-line-shopping-clv-tracker.streamlit.app/
+- **Repo:** https://github.com/mrponyrivers/line-shopping-clv-tracker
 
 ## Demo Video
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID_HERE/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+**Watch on YouTube:** https://youtu.be/ghMJ3IXv45Y
 
+[![Watch the demo on YouTube](https://img.youtube.com/vi/ghMJ3IXv45Y/hqdefault.jpg)](https://youtu.be/ghMJ3IXv45Y)
 ---
 ## Screenshots
 
