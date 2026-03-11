@@ -35,3 +35,6 @@ streamlit.log
 
 # Virtual env
 .venv/
+
+# Bundles
+*.bundle
