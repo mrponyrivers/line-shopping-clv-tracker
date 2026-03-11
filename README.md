@@ -11,7 +11,13 @@ A Streamlit app that helps you **shop the best line across books** and track **C
 ✅ Open the app: https://mrponyrivers-line-shopping-clv-tracker.streamlit.app/
 
 ---
+## Screenshots
 
+![Line Shop](docs/screenshots/01-screenshot.png)
+![Best Prices + Selected Offer](docs/screenshots/02-screenshot.png)
+![CLV Tracker](docs/screenshots/03-screenshot.png)
+
+---
 ## What this app does
 
 - **Line Shop:** log offers across books → automatically surface the **best price**
